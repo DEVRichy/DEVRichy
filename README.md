@@ -6,14 +6,23 @@ Here you’ll find experiments, utilities, and small projects focused on practic
 ## 🧰 Tech Stack
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="42" height="42" style="margin-right:14px;" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="42" height="42" style="margin-right:14px;" />
-   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42" style="margin-right:14px;" />
-   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="42" height="42" style="margin-right:0px;" />
-</p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+       alt="HTML5" width="40" height="40" style="margin-right:14px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+       alt="CSS3" width="40" height="40" style="margin-right:14px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+       alt="JavaScript" width="40" height="40" style="margin-right:14px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+       alt="Python" width="40" height="40" style="margin-right:14px;" />
+
+  <!-- Microsoft Power Platform -->
+  <img src="https://cdn.simpleicons.org/powerautomate/0066FF"
+       alt="Power Automate" width="40" height="40" style="margin-right:14px;" />
+  <img src="https://cdn.simpleicons.org/powerapps/742774"
+       alt="Power Apps" width="40" height="40" style="margin-right:14px;" />
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811"
+       alt="Power BI" width="40" height="40" />
+</p>>
 
 ## 🎯 What I’m working on
 
