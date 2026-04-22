@@ -17,7 +17,7 @@ I’m a developer who enjoys building **web projects** and **automation tools** 
 
 <div align="left">
   <img src="./assets/icons/vscode.png" height="60" alt="VS Code" style="margin-right:32px;"/>
-  <img src="./assets/icons/filezilla.png" height="60" alt="File Zilla" style="margin-right:32px;"/>
+  <img src="./assets/icons/file.svg" height="60" alt="File Zilla" style="margin-right:32px;"/>
   <img src="./assets/icons/git.png" height="60" alt="Git" style="margin-right:32px;"/>
   <img src="./assets/icons/github.svg" height="60" alt="Git Hub" style="margin-right:32px;"/>
   <img src="./assets/icons/Figma.png" height="60" alt="Figma" style="margin-right:32px;"/>
