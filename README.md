@@ -35,7 +35,7 @@ I’m a developer who enjoys building **web projects** and **automation tools** 
 <h4 align="left">Microsoft Process Automation</h4>
 
 <div align="left">
-  <img src="./assets/icons/powerautomate.svg" height="60" alt="Power Automate" style="margin-right:32px;"/>
+  <img src="./assets/icons/powerautomate.png" height="60" alt="Power Automate" style="margin-right:32px;"/>
   <img src="./assets/icons/Powerapps.svg" height="60" alt="Power Apps" style="margin-right:32px;"/>
   <img src="./assets/icons/forms.png" height="60" alt="Forms" style="margin-right:32px;"/>
   <img src="./assets/icons/powerpipng.png" height="60" alt="PowerPI" style="margin-right:32px;"/>
