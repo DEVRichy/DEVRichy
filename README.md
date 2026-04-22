@@ -6,34 +6,21 @@ I’m a developer who enjoys building **web projects** and **automation tools** 
 <h2 align="left">Tech Stack</h2>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
-  <img width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css logo"  />
-  <img width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
-  <img width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
-  <img width="40" />
+  <img src="./assets/icons/html.png" height="60" alt="HTML" style="margin-right:32px;"/>
+  <img src="./assets/icons/CSS.png" height="60" alt="CSS" style="margin-right:32px;"/>
+  <img src="./assets/icons/js.png" height="60" alt="JavaSkript" style="margin-right:32px;"/>
+  <img src="./assets/icons/Python.png" height="60" alt="Python" style="margin-right:32px;"/>
 </div>
 
-
-
 ###
-
 <h2 align="left">Tools</h2>
 
-###
-
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="40" alt="filezilla logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-
+  <img src="./assets/icons/vscode.png" height="60" alt="VS Code" style="margin-right:32px;"/>
+  <img src="./assets/icons/filezilla.png" height="60" alt="File Zilla" style="margin-right:32px;"/>
+  <img src="./assets/icons/git.png" height="60" alt="Git" style="margin-right:32px;"/>
+  <img src="./assets/icons/github.svg" height="60" alt="Git Hub" style="margin-right:32px;"/>
+  <img src="./assets/icons/Figma.png" height="60" alt="Figma" style="margin-right:32px;"/>
+  <img src="./assets/icons/Jira.png" height="60" alt="Jira" style="margin-right:32px;"/>
+  <img src="./assets/icons/confluence.png" height="60" alt="Confluence" style="margin-right:32px;"/>
 </div>
