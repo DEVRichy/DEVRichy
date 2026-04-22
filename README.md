@@ -21,7 +21,7 @@ I’m a developer who enjoys building **web projects** and **automation tools** 
   <img src="./assets/icons/github.svg" height="60" alt="Git Hub" style="margin-right:32px;"/>
   <img src="./assets/icons/Figma.png" height="60" alt="Figma" style="margin-right:32px;"/>
   <img src="./assets/icons/Jira.png" height="60" alt="Jira" style="margin-right:32px;"/>
-  <img src="./assets/icons/confluence.png" height="60" alt="Confluence" style="margin-right:32px;"/>
+  <img src="./assets/icons/confluence.jpg" height="60" alt="Confluence" style="margin-right:32px;"/>
   <img src="./assets/icons/file.svg" height="60" alt="File Zilla" style="margin-right:32px;"/>
 </div>
 
