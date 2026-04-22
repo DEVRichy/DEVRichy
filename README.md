@@ -1,4 +1,4 @@
-# Hi, I’m Richard 👋 (DEVRichy)
+# Hi, I’m Richard 👋
 
 I’m a developer who enjoys building **web projects** and **automation tools** that make everyday work easier. 🚀  
 
